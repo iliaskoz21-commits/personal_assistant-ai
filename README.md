@@ -15,6 +15,8 @@
 ## 🌟 Overview
 This project showcases a **Stateful Multi-Agent Architecture** designed to act as a comprehensive personal assistant. Unlike simple chatbots, this system uses a **State Machine** to route queries to specialized agents, each equipped with real-time internet access via the **Tavily Search API**.
 
+<img width="1872" height="847" alt="multi agent personal assistant prinscreen" src="https://github.com/user-attachments/assets/7cf4df28-43a4-49b6-8a7a-3a84646ef314" />
+
 
 
 ## 🏗️ System Architecture
