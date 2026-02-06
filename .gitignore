@@ -1,0 +1,10 @@
+# Αρχεία ρυθμίσεων (Περιέχουν API Keys)
+.env
+
+# Βάση δεδομένων (Μνήμη)
+database/memory.db
+
+# Python Cache
+__pycache__/
+*.pyc
+venv/

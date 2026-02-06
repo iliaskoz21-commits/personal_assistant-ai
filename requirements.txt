@@ -1,0 +1,6 @@
+langgraph
+langgraph-checkpoint-sqlite
+langchain-ollama
+langchain-tavily
+gradio
+python-dotenv
